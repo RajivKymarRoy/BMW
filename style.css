@@ -1,0 +1,165 @@
+/*1 HOME-PAGE */
+
+/* slider */
+.navbar{
+    width:100%;
+}
+
+.image-slider{
+    width:100%;
+}
+
+/* images & texts  */
+.images-texts{
+width:100%;
+}
+.first-div {
+    width: 80%;
+    display: flex;
+}
+
+.first-div img {
+    width: 60%;
+    height: 300px;
+}
+
+.first-div h1 {
+    margin-left: 50px;
+    margin-top: 65px;
+    padding: 20px;
+}
+
+.second-div {
+    width: 80%;
+    display: flex;
+}
+
+.second-div img {
+    width: 60%;
+    height: 300px;
+}
+
+.second-div h1 {
+    margin-left: 50px;
+    margin-top: 65px;
+    padding: 20px;
+}
+
+.third-div {
+    width: 80%;
+    display: flex;
+}
+
+.third-div img {
+    width: 60%;
+    height: 300px;
+}
+
+.third-div h1 {
+    margin-left: 50px;
+    margin-top: 65px;
+    padding: 20px;
+}
+
+/* footer  */
+.footer {
+    background-color: black;
+    
+    
+}
+
+ .contact-div{
+    color: blue;
+    text-align: center;
+    
+}
+
+.footer .font-div{
+    
+    text-align: center;
+
+}
+
+
+
+.footer .font-div p{
+    font-size: 30px;
+    margin:20px;
+    color: blue;
+}
+
+/* ABOUT PAGE */
+
+/* banner */
+.banner{
+    background-image: url("images/BMW9.jpg");
+    height:600px;
+    background-size: cover;
+    width:100%;
+}
+
+.history h3{
+    line-height:38px;
+    letter-spacing: 2px;
+}
+
+.history .quote{
+    width:70%;
+    background-color: grey;
+    margin:0 auto;
+}
+
+.history .quote{
+    text-align: center;
+}
+
+
+/* GALLERY-PAGE */
+
+/* fixed-image part */
+.fixed-image{
+    width:100%;
+  
+}
+
+.background-image{
+    background-image:url("images/image5.jpg") ;
+    background-size: cover;
+    height:400px;
+    background-color: black;
+    
+    
+}
+
+/* BUTTONS */
+.buttons{
+    text-align: center;
+   
+    margin:20px;
+    
+}
+
+/* IMAGES & TABLE */
+.gallery-table{
+    
+    margin:0 auto;
+    width:80%;
+}
+
+.gallery-table img{
+width:100%;
+padding:12px;
+
+}
+
+
+
+/* VIDEOS-PAGE */
+
+
+
+
+
+
+
+
